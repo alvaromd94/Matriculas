@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Matriculas</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="inicioSesion">Iniciar Sesión</string>
+</resources>
